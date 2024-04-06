@@ -1,8 +1,8 @@
 /**************************************************************************************************************************
 
-By:                 Carlos Barrios
-Date Created:       March 19, 2020
-File name:          cabeee_Lab11_c1.c
+By:                 Quinn Leydon
+Date Created:       November 19, 2020
+File name:          qcl4604_Lab11_c1.c
 Description:        Main C file for Lab 11. Combination of capacitive touch sensor, timer, and UART functionality.
                     The program starts up and gathers baseline measurements from the touch sensors.
                     Next it indicates that the center touch sensor should be pressed.
